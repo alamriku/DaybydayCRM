@@ -166,7 +166,7 @@
 
                     <a href="{{ route('roles.index')}}"
                        class="list-group-item childlist"> <i
-                                class="bullet-point"><span></span></i> {{ __('Role & Permissions Management') }}</a>
+                                class="bullet-point"><span></span></i> {{ __('Role and Permissions Management') }}</a>
                     <a href="{{ route('integrations.index')}}"
                        class="list-group-item childlist"> <i
                                 class="bullet-point"><span></span></i> {{ __('Integrations') }}</a>
