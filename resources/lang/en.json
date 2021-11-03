@@ -529,5 +529,8 @@
   "vat": "vat",
   "week": "week",
   "yellow": "yellow",
-  "yes": "yes"
+  "yes": "yes",
+  "HR": "HR",
+  "Notifications" : "Notifications",
+  "Actions" : "Actions"
 }
